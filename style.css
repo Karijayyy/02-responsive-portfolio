@@ -1,9 +1,21 @@
+/* .navbar-brand {
+    background-color: #af9f30;
+} */
+
 .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
+    color: #17202A;
+    border-top: 1px solid #af9f30;
+    height: 60px;  /* footer height */
+    padding-top: 20px;
+    margin-top: 20px;
+    display: block;
+    box-sizing: border-box;
+    position: relative;
     width: 100%;
-    background-color: white;
-    color: #212529;
     text-align: center;
 }
+/* links */
+a {
+    color: #af9f30;
+  }
+
