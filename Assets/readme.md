@@ -14,5 +14,7 @@ HTML, CSS, Bootstrap
 
 ## Resources
 https://getbootstrap.com/
+https://fonts.google.com/
 
 ## Screen Shot
+https://docs.google.com/document/d/1TOk7vOUN5JnEn4an5M8sXwCzsVFYu4qcnHmDStdSS4c/edit?usp=sharing

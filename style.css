@@ -1,7 +1,9 @@
 /* .navbar-brand {
     background-color: #af9f30;
 } */
-
+body {
+    font-family: 'Roboto', sans-serif;;
+  }
 .footer {
     color: #17202A;
     border-top: 1px solid #af9f30;
